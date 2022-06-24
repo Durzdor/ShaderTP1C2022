@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterSurface
+  m_Shader: {fileID: 4800000, guid: 4cab5d71684e90649b9d23becb8ff33a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Amplitude: 0.0086
+    - _Amplitude1: 0.087215774
+    - _DarkColor: 0.8
+    - _EdgeLength: 15
+    - _FallOff: 0
+    - _FallOff1: 0.46
+    - _Float2: -0.5
+    - _Float3: 10
+    - _Float4: 0.0101
+    - _Frequency: 45
+    - _Frequency1: 10
+    - _Radius: 0
+    - _Radius1: 0.63
+    - _Speed: -0.3
+    - _Speed1: -0.5
+    - _TessValue: 32
+    - __dirty: 0
+    m_Colors:
+    - _PointPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _PointPosition1: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
